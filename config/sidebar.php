@@ -6,7 +6,7 @@
 
 
 ?>
-<div class="col-md-3">
+<div class="col-md-3"  >
 				<div class="list-group">
 				  <a href="#" class="list-group-item disabled"><b>Hello, <?php echo $viewUser['fname']." ".$viewUser['lname']; ?> </b></a>
 				  <a href="dashboard.php" class="list-group-item">Dashboard </a>
